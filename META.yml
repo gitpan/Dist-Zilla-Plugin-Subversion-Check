@@ -24,4 +24,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Dist-Zilla-Plugin-Subversion-Check
   repository: https://github.com/benningm/Dist-Zilla-Plugin-Subversion-Check
-version: 1.001
+version: 1.002

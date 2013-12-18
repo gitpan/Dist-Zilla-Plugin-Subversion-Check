@@ -127,12 +127,12 @@ Dist::Zilla::Plugin::Subversion::Check - check SVN working copy before release
 
 In your F<dist.ini>:
 
-[Subversion::Check]
-# you may want to disable individual checks (uncomment)
-#check_up2date = 0
-#check_uncommited = 0
-#check_missing = 0
-#check_untracked = 0
+  [Subversion::Check]
+  # you may want to disable individual checks (uncomment)
+  #check_up2date = 0
+  #check_uncommited = 0
+  #check_missing = 0
+  #check_untracked = 0
 
 =head1 DESCRIPTION
 
